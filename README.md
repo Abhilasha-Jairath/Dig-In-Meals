@@ -13,6 +13,7 @@ Below are some screenshot to give you a glimps of the project.
 ![d4](https://user-images.githubusercontent.com/53110403/166139372-7027c6d5-f143-44e5-91ee-1156c12bcfc4.png)
 ![d5](https://user-images.githubusercontent.com/53110403/166139383-b41583f4-2523-49b2-9a18-c6593aecfb77.png)
 ![d6](https://user-images.githubusercontent.com/53110403/166139415-5b75c0eb-7b4e-4e9c-851b-04e9cdc74019.png)
+![diginmeals com-gif-maker](https://user-images.githubusercontent.com/53110403/166140022-565da94b-28bd-4ce6-965b-4b1db6be754d.gif)
 
 ## 🔗 Links
 
@@ -23,7 +24,7 @@ Below are some screenshot to give you a glimps of the project.
 ## Authors
 
 - [@abhilasha_jairath](https://www.github.com/Abhilasha-Jairath)
-- [@ronit_rangwani](https://www.github.com/ronit-rangwani)
+- [@ronit_rangwani](https://www.github.com/ronitrangwani)
 
 
 ## License
